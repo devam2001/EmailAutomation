@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bae6908d-d30e-4abd-8d53-07e584263c3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/6777bd66fcc795d93d28d155da781d91f47c737a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/7/6777bd66fcc795d93d28d155da781d91f47c737a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitignore.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/E__Maven_CA3_Email_Automation_.idea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/E__Maven_CA3_Email_Automation_.idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/test2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-org.epam.ca3.EmailAutomation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/E__Maven_CA3_Email_Automation_.idea.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/test2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/epam/ca3/EmailAutomation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fac4e92d770a0a6287eaad0e53c4efa350987f47" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/a/fac4e92d770a0a6287eaad0e53c4efa350987f47" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/ca3/EmailAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/epam/ca3/EmailAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2O58Why6OWMGX3EgTFTjXLdie0z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Maven\CA3_Email_Automation\src\test\java\org\epam\ca3" />
+      <recent name="E:\Maven\CA3_Email_Automation\src\test" />
+      <recent name="E:\Maven\CA3_Email_Automation\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.epam.ca3" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CA3_Email_Automation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CA3_Email_Automation" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bae6908d-d30e-4abd-8d53-07e584263c3d" name="Changes" comment="" />
+      <created>1680839119332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680839119332</updated>
+    </task>
+    <servers />
+  </component>
+</project>
